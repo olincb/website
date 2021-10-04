@@ -1,10 +1,10 @@
 # README
 
-Currently working through [this](https://guides.rubyonrails.org/getting_started.html). Left off at part 6.
+Currently working through [this](https://guides.rubyonrails.org/getting_started.html). Left off at part 7.
 
 Useful things:
 
-- start server: bin/rails server
+- start server: `bin/rails server`
 
 original readme below. keeping in case I want to actually listen to it.
 
