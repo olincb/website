@@ -2,6 +2,8 @@
 
 Currently working through [this](https://guides.rubyonrails.org/getting_started.html). Left off at part 7.
 
+I gave up on the above, and started focusing on the home page. Followed [this tutorial](https://bootrails.com/blog/rails-bootstrap-tutorial).
+
 Useful things:
 
 - start server: `bin/rails server`
