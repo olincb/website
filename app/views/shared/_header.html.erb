@@ -1,0 +1,25 @@
+<section class="text-center container">
+    <div class="row py-lg-2">
+    <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light"><a href='/' class='my-name'>Christopher Baillie Olin</a></h1>
+    </div>
+    </div>
+</section>
+<section class="text-center container">
+    <div class="row py-lg-2">
+    <div class="col-lg-6 col-md-8 mx-auto">
+        <h2 class="fw-light"><a class='heading-text' data-bs-toggle="collapse" href="#nav" role="button" aria-expanded="false" aria-controls="nav"><%= pageTitle %></a></h1>
+    </div>
+    </div>
+</section>
+<div class="collapse" id="nav">
+    <div class="container w-50">
+        <div class="row">
+            <% ["about", "resume", "projects", "art"].each do |menuItem|%>
+                <% if menuItem != pageTitle%>
+                    <div class="col text-center"><a href='/<%= menuItem %>'><%= menuItem %></a></div>
+                <% end %>
+            <% end %>
+        </div>
+    </div>
+</div>

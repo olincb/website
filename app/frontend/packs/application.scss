@@ -1,0 +1,50 @@
+// Import Bootstrap v5  
+@import "~bootstrap/scss/bootstrap";  
+
+$dark-1: #463f3a;
+$dark-2: #8A817C;
+$medium-1: #BCB8B1;
+$light-1: #F4F3EE;
+$contrast-1: #E3B23C;
+
+.homepage-button {  
+    background-color: transparent !important;
+    border-color: transparent !important;
+    color: $dark-1 !important;
+}
+
+.homepage-button:hover {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    color: $contrast-1 !important;
+}
+
+.my-name {
+    color: $dark-1;
+    text-decoration: inherit;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+a:hover {
+    color: $contrast-1;
+    text-decoration: inherit;
+}
+
+.general-text {
+    color: $dark-2;
+}
+
+.heading-text {
+    color: $dark-1;
+    text-decoration: inherit;
+}
+
+main {
+    background-color: $light-1;
+}
+html {
+    background-color: $light-1;
+}
+
