@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root 'home#index'
 
   get '/about', to: 'pages#about'
+  get '/resume.pdf', to: 'pages#download_resume_pdf'
   get '/resume', to: 'pages#resume'
   get '/projects', to: 'projects#index'
   get '/art', to: 'art#index'

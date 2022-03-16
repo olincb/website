@@ -1,22 +1,45 @@
 // Import Bootstrap v5  
 @import "~bootstrap/scss/bootstrap";  
 
+$colorscheme: "scheme1";
+
+// scheme1 (default) https://coolors.co/463f3a-8a817c-bcb8b1-f4f3ee-e3b23c
 $dark-1: #463f3a;
 $dark-2: #8A817C;
 $medium-1: #BCB8B1;
 $light-1: #F4F3EE;
 $contrast-1: #E3B23C;
 
+@if $colorscheme == "scheme2" { // https://coolors.co/423e37-6e675f-a39594-edebd7-e3b23c
+    $dark-1: #423E37;
+    $dark-2: #6E675F;
+    $medium-1: #A39594;
+    $light-1: #EDEBD7;
+    $contrast-1: #E3B23C;
+} @else if $colorscheme == "scheme3" { // https://coolors.co/000000-14213d-e5e5e5-ffffff-d00000
+    $dark-1: #000000;
+    $dark-2: #14213D;
+    $medium-1: #E5E5E5;
+    $light-1: #FFFFFF;
+    $contrast-1: #D00000;
+} @else if $colorscheme == "scheme4" { // dark theme https://coolors.co/a30000-1d2330-6e675f-a39594-e5e5e5
+    $dark-1: #E5E5E5;
+    $dark-2: #A39594;
+    $medium-1: #6E675F;
+    $light-1: #1d2330;
+    $contrast-1: #A81A40;
+}
+
 .homepage-button {  
-    background-color: transparent !important;
-    border-color: transparent !important;
-    color: $dark-1 !important;
+    background-color: transparent;
+    border-color: transparent;
+    color: $dark-1;
 }
 
 .homepage-button:hover {
-    background-color: transparent !important;
-    border-color: transparent !important;
-    color: $contrast-1 !important;
+    background-color: transparent;
+    border-color: transparent;
+    color: $contrast-1;
 }
 
 .my-name {
@@ -24,7 +47,7 @@ $contrast-1: #E3B23C;
     text-decoration: inherit;
 }
 a {
-    color: inherit;
+    color: $dark-1;
     text-decoration: inherit;
 }
 a:hover {
@@ -32,8 +55,24 @@ a:hover {
     text-decoration: inherit;
 }
 
+a.obviously-a-link {
+    color: $dark-1;
+    text-decoration: underline;
+}
+
+a.obviously-a-link:hover {
+    color: $contrast-1;
+}
+
 .general-text {
     color: $dark-2;
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.lead {
+    text-align: center !important;
 }
 
 .heading-text {

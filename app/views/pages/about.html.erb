@@ -1,10 +1,11 @@
 <main>
     <%= render "/shared/header", pageTitle: "about" %>
-    <section class="text-center container">
+    <section class="container general-text">
         <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-            <p class="lead general-text">Here is where I'll tell you about myself.</p>
+            <%= render "markdown/about"%>
         </div>
         </div>
+        
     </section>
 </main>

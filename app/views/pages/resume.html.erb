@@ -3,8 +3,22 @@
     <section class="text-center container">
         <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-            <p class="lead general-text">Here is where I'll show you my resume.</p>
+            <p class="lead general-text">Download <a href='/resume.pdf' class="obviously-a-link" target="_blank">here</a>.</p>
         </div>
         </div>
+
+        <div id="adobe-dc-view" class="mx-auto shadow mb-5" style="width: 800px;"></div>
+        <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+        <script type="text/javascript">
+            document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+                // TODO: clientId for production instead of development
+                var adobeDCView = new AdobeDC.View({clientId: "306c258309b7438d9f560f3bc2ab1543", divId: "adobe-dc-view"});
+                adobeDCView.previewFile({
+                    content:{location: {url: "/resume.pdf"}},
+                    metaData:{fileName: "Chris Olin Resume.pdf"}
+                }, {embedMode: "IN_LINE"});
+            });
+        </script>
+
     </section>
 </main>
