@@ -7,5 +7,9 @@ class PagesController < ApplicationController
             type: "application/pdf"
           )
     end
+
+    def projects
+        @projects = ["testproject1", "testproject2", "CAD Lock"]
+    end
       
 end

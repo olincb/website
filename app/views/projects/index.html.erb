@@ -1,11 +1,12 @@
-<h1>Projects</h1>
-
-<ul>
-    <% @projects.each do |project| %>
-        <li>
-            <%= link_to(project.title, project)%>
-        </li>
-    <% end %>
-</ul>
-
-<%= link_to "New Project", new_project_path %>
+<main>
+    <%= render "/shared/header", pageTitle: "projects" %>
+    <section class="container general-text">
+        <% projects.each do |proj| %>
+            <h2 class="fw-light"><a class="heading-text" data-bs-toggle="collapse" href="#<%= proj %>" role="button" aria-expanded="false" aria-controls="<%= proj %>"><%= proj %></a></h2>
+            <div class="collapse" id="<%= proj%>">
+                <p> insert markdown for <%= proj %> here! </p>
+            </div>
+        <% end %>
+        
+    </section>
+</main>

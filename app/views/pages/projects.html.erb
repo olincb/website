@@ -1,0 +1,13 @@
+<main>
+    <%= render "/shared/header", pageTitle: "projects" %>
+    <section class="container general-text">
+        <% @projects.each do |proj| %>
+            <% proj_nospace = proj.gsub(" ", "_") %>
+            <h2 class="fw-light"><a class="heading-text" data-bs-toggle="collapse" href="#<%= proj_nospace %>" role="button" aria-expanded="false" aria-controls="<%= proj_nospace %>"><%= proj %></a></h2>
+            <div class="collapse" id="<%= proj_nospace %>">
+                <%= render "markdown/projects/#{proj}"%>
+            </div>
+        <% end %>
+        
+    </section>
+</main>

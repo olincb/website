@@ -13,3 +13,5 @@ Outside of classes, I like to spend my time outdoors. I like rock climbing,
 mountain biking, road cycling, hiking, camping, ultimate frisbee, and disc golf.
 I love the Pacific Northwest because it serves as an excellent setting for all
 of these things, and is beautiful year-round.
+
+<%= image_tag("android-chrome-192x192.png") %>
