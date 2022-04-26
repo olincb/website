@@ -16,7 +16,7 @@ My resume is located at `app/assets/documents/Chris Olin Resume.pdf`. If you upd
 
 The about page is also populated from markdown. To edit the content of the about page, edit the `app/views/markdown/_about.html.md` markdown file.
 
-## TODO:
+## TODO
 
 - in the process of getting markdown to render as html, I went through a couple of strategies. I got live rendering of md to work but need to clean up the leftover stuff from when I was trying to pre-render them
 - looks like tables aren't working out very well when rendered
