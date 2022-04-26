@@ -6,7 +6,7 @@ Rails.application.routes.draw do
   get '/resume.pdf', to: 'pages#download_resume_pdf'
   get '/resume', to: 'pages#resume'
   get '/projects', to: 'pages#projects'
-  get '/art', to: 'art#index'
+  #get '/art', to: 'art#index'
 
   resources :projects
 end
