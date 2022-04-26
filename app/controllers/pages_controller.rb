@@ -9,7 +9,10 @@ class PagesController < ApplicationController
     end
 
     def projects
-        @projects = ["testproject1", "testproject2", "CAD Lock"]
+
+        @projects = Dir["#{Rails.root}/app/views/markdown/projects/*.md"]
+        @projects.map! { |filepath| filepath.split('_')[-1].chop.chop.chop } # chop chop chop!!! (get rid of ".md")
+        puts @projects
     end
       
 end

@@ -48,3 +48,5 @@ Aladkfjalsdkf;lsfl;sjkdf asd ncqiuynueyn ueociusnkhbzkjsyetghvnidfusdif uid slid
 Ubhg  jh hbj  jh g hbhbv bnjgfvb jkjhgd fghuji kjhgf dswdf gtyu ik jui ol kjhy trew sazsxd fgh nmklo iuyt frde4r 5tyhj iku ytgf.
 Ygtf vgb vfg thjk,m nbhgf dcvgb n vcd s derftgyh jkijm njikm nbgfd ewa s drty hjn mk jhb nb vgyuj nb gf tyui kjnbvc ftgyuijkj mnbg.
 trfg hjkm nhbgfrd cfg huji kol,mjh ytr dfcv ghj kl, mj uik jh gtre w sd fgtyh jk.
+
+<%= image_tag("android-chrome-192x192.png") %>
