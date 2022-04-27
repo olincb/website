@@ -32,6 +32,8 @@ The about page is also populated from markdown. To edit the content of the about
 
 ## Useful things:
 
+- Ruby
+  - version 2.7.0
 - pdf rendering
   - <https://stackoverflow.com/questions/7500451/how-do-i-display-a-pdf-in-ror-ruby>
   - <https://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html>
