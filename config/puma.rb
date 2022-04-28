@@ -35,6 +35,8 @@ port ENV.fetch("PORT") { 3000 }
 rails_env = ENV.fetch("RAILS_ENV") { "production" }
 environment rails_env
 
+secret_key_base ENV.fetch("SECRET_KEY_BASE")
+
 # Set up socket location
 bind "unix://#{shared_dir}/sockets/puma.sock"
 # Logging

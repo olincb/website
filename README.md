@@ -51,3 +51,6 @@ The about page is also populated from markdown. To edit the content of the about
   - <https://bootrails.com/blog/rails-bootstrap-tutorial>
   - <https://pramodkumar-005.medium.com/how-to-deploy-ruby-on-rails-apps-on-aws-lightsail-7b471d609a58>
   - <https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04>
+  - <https://gist.github.com/0x263b/683c5d09b1cbf4240884491696eb5e46>
+  - <https://github.com/puma/puma/blob/master/docs/systemd.md>
+  - <https://gist.github.com/arteezy/5d53d99f6ee617fae1f0db0576fdd418>
