@@ -29,6 +29,7 @@ The about page is also populated from markdown. To edit the content of the about
 - get nginx or apache working
 - ssl cert
 - get hosted
+- precompile js in production
 
 ## Useful things:
 
