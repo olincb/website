@@ -49,3 +49,5 @@ The about page is also populated from markdown. To edit the content of the about
 - tutorials I used to get started
   - <https://guides.rubyonrails.org/getting_started.html>
   - <https://bootrails.com/blog/rails-bootstrap-tutorial>
+  - <https://pramodkumar-005.medium.com/how-to-deploy-ruby-on-rails-apps-on-aws-lightsail-7b471d609a58>
+  - <https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04>
