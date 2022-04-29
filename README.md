@@ -27,10 +27,14 @@ My resume is located at `app/assets/documents/Chris Olin Resume.pdf`. If you upd
 
 The about page is also populated from markdown. To edit the content of the about page, edit the `app/views/markdown/_about.html.md` markdown file.
 
-## Domain name
+## Domain name and SSL
 
 The domain <olincb.me> is connected to the Lightsail instance's IP.
 The domain was purchased on <https://domains.google.com/>.
+
+The SSL cert was obtained from Let's Encrypt and put into the nginx config by following [this blog post](https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/).
+
+The SSL cert gets renewed 30 days before expiration by checking every day if it's going to expire (using `crontab`). Edit with `crontab -e`.
 
 ## TODO
 
@@ -38,7 +42,6 @@ The domain was purchased on <https://domains.google.com/>.
 - latex is not rendering (do I really need this?)
 - write project writeups (don't start them with h1's/#'s)
 - work on art page
-- ssl cert
 
 ## Useful things:
 
@@ -50,7 +53,9 @@ The domain was purchased on <https://domains.google.com/>.
   - make sure to add headers for apache or nginx as described in the first link (when we get to that)
   - <https://documentcloud.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-embed-api>
 - domain
-  - <https://domains.google.com/registrar/search?hl=en&searchTerm=chrisolin.co&tab=1>
+  - <https://domains.google.com/registrar/olincb.me>
+- ssl
+  - <https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/>
 - markdown
   - <https://github.com/vmg/redcarpet>
   - <https://bloggie.io/@kinopyo/rails-render-markdown-views-and-partials>
