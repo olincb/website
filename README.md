@@ -13,7 +13,7 @@ which can be ssh'd into with `ssh -i <location/of/.pem> ubuntu@<Light.sail.IP.ad
 On this server, there are nginx and puma systemd services running in the background.
 Commands to control are: `sudo systemctl {start, stop, restart, status} {nginx, puma}`.
 
-test
+asdf
 
 ## Projects
 
