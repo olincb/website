@@ -13,8 +13,6 @@ which can be ssh'd into with `ssh -i <location/of/.pem> ubuntu@<Light.sail.IP.ad
 On this server, there are nginx and puma systemd services running in the background.
 Commands to control are: `sudo systemctl {start, stop, restart, status} {nginx, puma}`.
 
-In order for changes pushed to GitHub to reflect, the repo must be `pull`ed from the server, and puma must be restarted.
-
 ## Projects
 
 To add a project to the website, add a markdown file to the `app/views/markdown/projects/` folder. The file should be titled: `_{Project Name}.md`. It looks best when there's no leading header in the markdown file, because the filename is used as a header in the website.
