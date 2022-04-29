@@ -12,6 +12,8 @@
 /db/*.sqlite3-*
 
 # Ignore all logfiles and tempfiles.
+/shared/log/*
+/shared/pids/*
 /log/*
 /tmp/*
 !/log/.keep
