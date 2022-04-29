@@ -1,8 +1,17 @@
 # README
 
-## Starting server for development
+## Starting server
+
+### Development
 
 `bin/rails server`
+
+### Production
+
+The site is running in an [AWS Lightsail](https://lightsail.aws.amazon.com/ls/webapp/home/instances) instance,
+which can be ssh'd into with `ssh -i <location/of/.pem> ubuntu@<Light.sail.IP.address>`.
+On this server, there are nginx and puma systemd services running in the background.
+Commands to control are: `sudo systemctl {start, stop, restart, status} {nginx, puma}`.
 
 ## Projects
 
@@ -16,20 +25,18 @@ My resume is located at `app/assets/documents/Chris Olin Resume.pdf`. If you upd
 
 The about page is also populated from markdown. To edit the content of the about page, edit the `app/views/markdown/_about.html.md` markdown file.
 
+## Domain name
+
+The domain <olincb.me> is connected to the Lightsail instance's IP.
+The domain was purchased on <https://domains.google.com/>.
+
 ## TODO
 
-- in the process of getting markdown to render as html, I went through a couple of strategies. I got live rendering of md to work but need to clean up the leftover stuff from when I was trying to pre-render them
 - looks like tables aren't working out very well when rendered
 - latex is not rendering (do I really need this?)
 - write project writeups (don't start them with h1's/#'s)
-- delete projects controller
-- delete sql stuff
-- clean up unnecessary rails things
 - work on art page
-- get nginx or apache working
 - ssl cert
-- get hosted
-- precompile js in production
 
 ## Useful things:
 
