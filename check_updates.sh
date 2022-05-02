@@ -7,13 +7,13 @@ REMOTE=$(git -C /home/ubuntu/website rev-parse @{u})
 BASE=$(git -C /home/ubuntu/website merge-base @ @{u})
 
 if [ $LOCAL = $REMOTE ]; then
-    # echo "Up-to-date"
+    echo "Up-to-date"
 elif [ $LOCAL = $BASE ]; then
-    # echo "Need to pull"
+    echo "Need to pull"
     git -C /home/ubuntu/website pull
     sudo systemctl restart puma
 elif [ $REMOTE = $BASE ]; then
-    # echo "Need to push"
+    echo "Need to push"
 else
-    # echo "Diverged"
+    echo "Diverged"
 fi
