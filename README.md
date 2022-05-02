@@ -45,6 +45,7 @@ The SSL cert gets renewed 30 days before expiration by checking every day if it'
 - latex is not rendering (do I really need this?)
 - write project writeups (don't start them with h1's/#'s)
 - work on art page
+- update error html pages
 
 ## Useful things:
 
