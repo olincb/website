@@ -12,6 +12,11 @@ The site is running in an [AWS Lightsail](https://lightsail.aws.amazon.com/ls/we
 which can be ssh'd into with `ssh -i <location/of/.pem> ubuntu@<Light.sail.IP.address>`.
 On this server, there are nginx and puma systemd services running in the background.
 Commands to control are: `sudo systemctl {start, stop, restart, status} {nginx, puma}`.
+The systemctl logs can be read by: `journalctl -u {puma, nginx}`.
+
+The `check_updates.sh` script in this repository is run every minute on the Lightsail instance, which pulls updates from git and restarts the server if needed.
+This means updates to the repository are propagated automatically, and no server side action needs to be taken to refresh the content of the website.
+This also means that if breaking changes are pushed to main, they will (almost) immediately be in production, so be careful with pushes to the main branch.
 
 ## Projects
 
