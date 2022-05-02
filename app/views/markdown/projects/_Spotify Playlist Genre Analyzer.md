@@ -19,3 +19,13 @@ The webpage has links to various data sources, libraries, and miscellaneous know
 The project starts with gathering data about an assortment of playlists from the Spotify API.
 It then visualizes the collected data using PyPlot, making frequecny diagrams of genres in playlists.
 Then, a set of numerical features are extracted from the data (e.g. number of distinct genres, number of tracks, etc.).
+This is followed by more data collection in an attempt to quantify the relationships between genres, highlighting the nonlinear nature of the datascience pipeline.
+This second round of data collection is scraped from [Every Noise at Once](https://everynoise.com/), which has a LOT of data about genres, and pulls from the same data that Spotify uses.
+Finally, I used principal component analysis (PCA) to find a dimension that explains variance between playlists, and verified that it did not depend on the size of the playlist.
+It turned out that the track to genre ratio explained 85% of the variance among the playlists.
+
+Unfortunately, I was unable to find some magical ranking or scoring of how cohesive a playlist is, but the project was certainly not in vain.
+I discovered that it is possible to mostly differentiate between playlists based on a factor that is unrelated to the size of the playlist.
+Furthermore, that factor is directly proportional to data that is (relatively) easy to obtain.
+
+I'm considering taking this project further if I can find some more time to work on it.
