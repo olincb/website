@@ -1,7 +1,19 @@
 #!/bin/bash
-echo $1
-if [[ `git status --porcelain -C $1` ]]; then
-  echo "Changes"
+
+git -C /home/ubuntu/website fetch -q
+
+LOCAL=$(git -C /home/ubuntu/website rev-parse @)
+REMOTE=$(git -C /home/ubuntu/website rev-parse @{u})
+BASE=$(git -C /home/ubuntu/website merge-base @ @{u})
+
+if [ $LOCAL = $REMOTE ]; then
+    # echo "Up-to-date"
+elif [ $LOCAL = $BASE ]; then
+    # echo "Need to pull"
+    git -C /home/ubuntu/website pull
+    sudo systemctl restart puma
+elif [ $REMOTE = $BASE ]; then
+    # echo "Need to push"
 else
-  echo "no changes"
+    # echo "Diverged"
 fi
