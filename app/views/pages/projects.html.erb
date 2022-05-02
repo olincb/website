@@ -3,6 +3,9 @@
     <section class="container general-text">
         <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
+        <p>Here, you can read about some projects I've worked on.
+        Most of them are final projects for classes I've taken, and some are personal projects.
+        Click on the name of a project to expand a description of it, and click the name again to collapse it.</p>
         <% @projects.each do |proj| %>
             <% proj_nospace = proj.gsub(" ", "_") %>
             <h2 class="fw-light"><a class="heading-text" data-bs-toggle="collapse" href="#<%= proj_nospace %>" role="button" aria-expanded="false" aria-controls="<%= proj_nospace %>"><%= proj %></a></h2>
