@@ -8,7 +8,7 @@ I also love making playlists.
 Typically, when I make a playlist, I try to make the playlist as cohesive as possible.
 In other words, I want all the songs to sound fairly similar, or have a similar feel or vibe.
 On the other hand, I strive to have an eclectic taste in music.
-In other words, I want to listen to a wide breadth of music, and to continue broading my musical horizons.
+In other words, I want to listen to a wide breadth of music, and to continue broadening my musical horizons.
 
 My goal with this project was to find a way to score a Spotify playlist on a scale from eclectic to cohesive.
 Along the way, however, I guided the reader through the data science pipeline, hopefully leaving the reader with a better understanding of something, whether that be the data science pipeline at large, a specific data science tool, or musical genres.

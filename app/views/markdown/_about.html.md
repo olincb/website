@@ -7,7 +7,7 @@ call me Baillie. Either is fine with me.
 I am a student at the University of Maryland
 pursuing a dual degree in mechanincal engineering and computer science.
 My interests include (but are not limited to) electronics, machine learning,
-data science, compilers and programming languages.
+data science, compilers, and programming languages.
 
 Outside of classes, I like to spend my time outdoors. I like rock climbing,
 mountain biking, road cycling, hiking, camping, ultimate frisbee, and disc golf.
