@@ -21,14 +21,6 @@ Below is a screenshot of the user interface, available on the device's local wif
 
 <img src="ui_screenshot.png" width="100%" alt="User interface.">
 
-#### Acknowledgements
-
-[`ssd1306.py`](https://github.com/olincb/smart-lights-controller/blob/main/src/ssd1306.py) and an original version of [`wifi.py`](https://github.com/olincb/smart-lights-controller/blob/main/src/wifi.py) were provided as part of course material for ENME441: Mechatronics and the Internet of Things at the University of Maryland, by Dr. Don DeVoe. `wifi.py` has been altered significantly.
-
-[`uQR.py`](https://github.com/olincb/smart-lights-controller/blob/main/src/uQR.py) was taken, in accordance to the license, from the [uQR GitHub repository](https://github.com/JASchilz/uQR), Copyright (c) 2018, Joseph Schilz.
-
-[`tp_link.py`](https://github.com/olincb/smart-lights-controller/blob/main/src/tp_link.py) is adapted, in accordance to the license, from files in the [softScheck tplink-smartplug GitHub repository](https://github.com/softScheck/tplink-smartplug) by Lubomir Stroetmann, Copyright 2016 softScheck GmbH.
-
 ## Hardware
 
 The housing for the device was 3d printed from the files in the [`CAD` directory](https://github.com/olincb/smart-lights-controller/tree/main/CAD) at the University of Maryland's [Sandbox](https://sandbox.iribe.umd.edu/) maker space.
