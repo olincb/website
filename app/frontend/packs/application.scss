@@ -64,6 +64,15 @@ a.obviously-a-link:hover {
     color: $contrast-1;
 }
 
+a > code {
+    font-weight: bold;
+    color: #d63384;
+}
+
+a:hover > code {
+    color: inherit;
+}
+
 .general-text {
     color: $dark-2;
     font-size: 1.25rem;
