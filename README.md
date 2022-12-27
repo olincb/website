@@ -1,5 +1,9 @@
 # README
 
+This is my personal website!
+
+This readme is pretty much just notes to myself to remember how to do things since my work on it is pretty sparse. That being said, it's a good look into how I've designed it for anyone else just looking around.
+
 ## Starting server
 
 ### Development
@@ -22,6 +26,10 @@ This also means that if breaking changes are pushed to main, they will (almost) 
 
 To add a project to the website, add a markdown file to the `app/views/markdown/projects/` folder. The file should be titled: `_{Project Name}.md`. It looks best when there's no leading header in the markdown file, because the filename is used as a header in the website.
 
+## Blog
+
+This is the same as the projects, but the markdown should be added to the `app/views/markdown/blogs/` folder. Any images used should be added to the `public/` folder.
+
 ## Resume
 
 My resume is located at `app/assets/documents/Chris Olin Resume.pdf`. If you update the resume, it must either be named the same thing and placed in the same location, or `/app/controllers/pages_controller.rb` must be updated with the new filename.
@@ -41,10 +49,8 @@ The SSL cert gets renewed 30 days before expiration by checking every day if it'
 
 ## TODO
 
-- looks like tables aren't working out very well when rendered
-- latex is not rendering (do I really need this?)
-- write project writeups (don't start them with h1's/#'s)
-- work on art page
+- password protect blog (look into [lockup](https://github.com/interdiscipline/lockup))
+- art page
 - update error html pages
 
 ## Useful things:

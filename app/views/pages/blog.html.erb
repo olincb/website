@@ -1,0 +1,19 @@
+<main>
+    <%= render "/shared/header", pageTitle: "blog" %>
+    <section class="container general-text">
+        <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+        <p>This is my blog! I'll make posts here mostly when I'm traveling, or if I find something fun to share.
+        Click on a blog post's title to open it, and click it again to collapse it.</p>
+        <% @blog_posts.each do |blog_post| %>
+            <!-- adding CBO_ in front of the ids because my posts will start with the (numeric) date and html4 needs ids to start with letters -->
+            <% post_nospace = "CBO_" + blog_post.gsub(" ", "_").delete(",.:#!?") %>
+            <h2 class="fw-light"><a class="heading-text" data-bs-toggle="collapse" href="#<%= post_nospace %>" role="button" aria-expanded="false" aria-controls="<%= post_nospace %>"><%= blog_post %></a></h2>
+            <div class="collapse" id="<%= post_nospace %>">
+                <%= render "markdown/blogs/#{blog_post}"%>
+            </div>
+        <% end %>
+        </div>
+        </div>
+    </section>
+</main>
