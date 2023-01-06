@@ -18,10 +18,15 @@
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
+    <script src="https://kit.fontawesome.com/8c6eed97f6.js" crossorigin="anonymous"></script>
+
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <script>window.setToplevelDarkmodeState();</script>
   </head>
 
   <body>
+    <button id="darkmode-button" title="toggle darkmode" onclick="toggleDarkmode()" class="btn darkmode-button"><i class="fa-regular fa-moon"></i></button>
     <%= yield %>
+    <script>window.setDarkmodeState();</script>
   </body>
 </html>

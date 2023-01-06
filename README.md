@@ -51,7 +51,9 @@ The SSL cert gets renewed 30 days before expiration by checking every day if it'
 
 ## TODO
 
-- dark mode
+- change dark mode icons to switch to the other on mouse hover
+  - light mode: shows sun, changes to moon on hover
+  - dark mode: shows moon, changes to sun on hover
 - art page
 - update error html pages
 

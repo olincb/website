@@ -31,45 +31,61 @@ $contrast-2: #d63384;
     $contrast-1: #A81A40;
 }
 
+$transition-time: 0.5s;
+
 .homepage-button {  
     background-color: transparent;
     border-color: transparent;
     color: $dark-1;
+    transition: color $transition-time ease-in-out;
 }
-
+.homepage-button.darkmode {
+    color: $light-1;
+}
 .homepage-button:hover {
     background-color: transparent;
     border-color: transparent;
     color: $contrast-1;
 }
+.homepage-button:focus, .homepage-button:active:focus {
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: $contrast-2;
+}
 
 .my-name {
     color: $dark-1;
     text-decoration: inherit;
+    transition: color $transition-time ease-in-out;
 }
+.my-name.darkmode {
+    color: $light-1;
+}
+
 a {
     color: $dark-1;
     text-decoration: inherit;
+    // transition: color $transition-time ease-in-out;
+}
+a.darkmode {
+    color: $light-1;
 }
 a:hover {
     color: $contrast-1;
     text-decoration: inherit;
 }
-
 a.obviously-a-link {
-    color: $dark-1;
     text-decoration: underline;
 }
-
 a.obviously-a-link:hover {
     color: $contrast-1;
 }
-
 a > code {
     font-weight: bold;
     color: $contrast-2;
 }
-
 a:hover > code {
     color: inherit;
 }
@@ -79,6 +95,10 @@ a:hover > code {
     font-size: 1.25rem;
     font-weight: 300;
     text-align: justify;
+    // transition: color $transition-time ease-in-out;
+}
+.general-text.darkmode {
+    color: $medium-1;
 }
 
 .lead {
@@ -88,12 +108,31 @@ a:hover > code {
 .heading-text {
     color: $dark-1;
     text-decoration: inherit;
+    transition: color $transition-time ease-in-out;
+}
+.heading-text.darkmode {
+    color: $light-1;
 }
 
-main {
-    background-color: $light-1;
+.darkmode-button {
+    color: $dark-1;
+    padding: 0.2em 0.6em;
+    position: fixed;
+    top: 0;
+    right: 0;
 }
-html {
-    background-color: $light-1;
+.darkmode-button.darkmode {
+    color: $light-1;
+}
+.darkmode-button:focus {
+    outline: none;
+    box-shadow: none;
 }
 
+html, main {
+    background-color: $light-1;
+    transition: background-color $transition-time ease-in-out;
+}
+html.darkmode, main.darkmode {
+    background-color: $dark-1;
+}
