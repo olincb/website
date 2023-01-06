@@ -91,6 +91,8 @@ GEM
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
+    lockup (1.7)
+      rails (>= 3, < 7.1)
     loofah (2.17.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -214,6 +216,7 @@ DEPENDENCIES
   coderay
   emd
   jbuilder (~> 2.7)
+  lockup
   puma (~> 5.0)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4, >= 6.1.4.1)

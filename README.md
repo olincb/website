@@ -30,6 +30,8 @@ To add a project to the website, add a markdown file to the `app/views/markdown/
 
 This is the same as the projects, but the markdown should be added to the `app/views/markdown/blogs/` folder. Any images used should be added to the `public/` folder.
 
+The blog is password protected by [lockup](https://github.com/interdiscipline/lockup). The password is set in `config/credentials.yml.enc`, and can be edited with `EDITOR="code --wait" bin/rails credentials:edit` from the rails root directory.
+
 ## Resume
 
 My resume is located at `app/assets/documents/Chris Olin Resume.pdf`. If you update the resume, it must either be named the same thing and placed in the same location, or `/app/controllers/pages_controller.rb` must be updated with the new filename.
@@ -49,7 +51,7 @@ The SSL cert gets renewed 30 days before expiration by checking every day if it'
 
 ## TODO
 
-- password protect blog (look into [lockup](https://github.com/interdiscipline/lockup))
+- dark mode
 - art page
 - update error html pages
 

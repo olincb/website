@@ -9,6 +9,7 @@ $dark-2: #8A817C;
 $medium-1: #BCB8B1;
 $light-1: #F4F3EE;
 $contrast-1: #E3B23C;
+$contrast-2: #d63384;
 
 @if $colorscheme == "scheme2" { // https://coolors.co/423e37-6e675f-a39594-edebd7-e3b23c
     $dark-1: #423E37;
@@ -66,7 +67,7 @@ a.obviously-a-link:hover {
 
 a > code {
     font-weight: bold;
-    color: #d63384;
+    color: $contrast-2;
 }
 
 a:hover > code {
