@@ -23,6 +23,7 @@ class PagesController < ApplicationController
 
     def blog
         @blog_posts = markdown_list "blogs"
+        @blog_posts.sort!
         # reverse chronological order
         @blog_posts.reverse!
         puts @blog_posts
