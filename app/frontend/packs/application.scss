@@ -129,6 +129,10 @@ a:hover > code {
     box-shadow: none;
 }
 
+img {
+    width: 100%;
+}
+
 html, main {
     background-color: $light-1;
     transition: background-color $transition-time ease-in-out;
