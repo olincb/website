@@ -6,9 +6,9 @@ My original plan was to go up yesterday but I got in Grandpa's truck that mornin
 
 Today I took a shuttle to the mountain from the Vancouver Art Gallery as I was without a car. When I got there, Cypress was very wet. The precipitation shifted throughout the day from rain to wet, heavy snow. The stuff on the ground was surprisingly rideable given the morning rain. There were also surprisingly many people out given the conditions, but still not too many. Visibility was incredibly poor, and I'm very glad I recently got some new goggles that came with low-vis lenses. I think there would be some pretty cool vistas from the mountain top, but this was all I got...
 
-<img src="2023-01-08_foggy_cypress_1.png" width="100%" title="Foggy Cypress" alt="The view from a chairlift at Cypress mountain, looking uphill. It is quite foggy.">
+![The view from a chairlift at Cypress mountain, looking uphill. It is quite foggy.](/blog/images/2023-01-08_foggy_cypress_1.png)
 
-<img src="2023-01-08_foggy_cypress_2.png" width="100%" title="Foggy Cypress" alt="The view from a chairlift at Cypress mountain, looking downhill. It is quite foggy.">
+![The view from a chairlift at Cypress mountain, looking downhill. It is quite foggy.](/blog/images/2023-01-08_foggy_cypress_2.png)
 
 The drive back on the shuttle would have had an excellent view (I know because I've been there in the summer) but everything was fogged in still:
 
