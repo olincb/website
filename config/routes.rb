@@ -6,6 +6,8 @@ Rails.application.routes.draw do
 
   root 'home#index'
 
+  get '/blog/images/:image_name', to: 'resources#blog_img'
+
   get '/about', to: 'pages#about'
   get '/resume.pdf', to: 'pages#download_resume_pdf'
   get '/resume', to: 'pages#resume'
