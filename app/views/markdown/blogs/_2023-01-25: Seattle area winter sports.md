@@ -28,19 +28,22 @@ It also has a neat bridge over this beautiful creek at the entrance:
 My first day there started out with even worse visibility than at Snoqualmie Central, but eventually it cleared up to reveal some spectacular views from Chair 2:
 
 ![The view from Chair 2 at Alpental](/blog/images/2023-01-25_alpental_chair_2_view.JPG)
+
 ![Looking down over my feet at some fresh snow below](/blog/images/2023-01-25_alpental_chair_2.JPG)
 
 More recently, I went to Crystal, which many say is the best skiing in Washington.
 I can confirm that at the very least, the views at Crystal are the best of anywhere I've been, including Colorado mountains.
-From the top of the gondola, you're greeted by Mt. Rainier, front and center, as well as Mt. St. Helens in the distance to the left:
+From the top of the gondola, you're greeted by Mt. Rainier, front and center (on the right in my photo), as well as Mt. St. Helens in the distance to the left:
 
 ![The view from Crystal... hello Rainier!](/blog/images/2023-01-25_crystal_view.JPG)
+
 ![Me and Mt. Rainier](/blog/images/2023-01-25_me_and_rainier.JPG)
 
 Sadly the snow wasn't the best there that day.
 It was very fast on the groomers which was fun, but everything ungroomed was incredibly crusty.
 
 ![Most difficult](/blog/images/2023-01-25_crystal_most_difficult.JPG)
+
 ![Taking a scenic break before a run](/blog/images/2023-01-25_crystal_snowboard.JPG)
 
 ## Snowshoeing
@@ -51,7 +54,9 @@ So... we decided to snowshoe instead! It was my first time, and it was quite fun
 A huge thank you to Jill for letting Grace and I stay at her home in Poulsbo for our trip!
 
 ![Me at Hurricane Ridge](/blog/images/2023-01-25_hr_me.JPG)
+
 ![Grace and me at Hurricane Ridge](/blog/images/2023-01-25_hr_me_grace.JPG)
+
 ![Grace at Hurricane Ridge](/blog/images/2023-01-25_hr_grace.JPG)
 
 ## Skiing
