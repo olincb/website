@@ -10,16 +10,16 @@ Overall, it was an amazing time with some amazing people.
 
 Here are a few photos!
 
-The wide open desert in Joshua Tree.
+The wide open desert in Joshua Tree:
 
 ![A picture of the desert with shrubs and rocks](/blog/images/2023-02-07_desert.JPG)
 
-Friendly, Considerate and Good Natured Gators at the art festival in old town La Quinta
+Friendly, Considerate and Good Natured Gators at the art festival in old town La Quinta:
 
 ![Clay alligators with funky smiles and a lot of character](/blog/images/2023-02-07_gators.JPG)
 
-Pickle ball squad! Left to right: Carolyn, me, Grace, and Jill.
+Pickle ball squad! Left to right: Carolyn, me, Grace, and Jill:
 
 ![The squad with our pickle ball paddles](/blog/images/2023-02-07_pickleball.JPG)
 
-Right now, I’m with my friend Max in LA for the day. My flight to japan is __TONIGHT!__ I can’t believe it.
+Right now, I’m with my friend Max in LA for the day. My flight to Japan is __TONIGHT!__ I can’t believe it.
