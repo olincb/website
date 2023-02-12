@@ -64,7 +64,7 @@ The Toyosu fruit and vegetable market:
 
 [A nice rainy train aesthetic](https://youtu.be/R3MJC9T8LeI)
 
-The view from a ceramic/china galley that is also a cafe that is also a bar (great plum wine):
+The view from a ceramic/china gallery that is also a cafe that is also a bar (great plum wine):
 
 ![A drink and a view over a river at night](/blog/images/2023-02-11_bar.JPG)
 
