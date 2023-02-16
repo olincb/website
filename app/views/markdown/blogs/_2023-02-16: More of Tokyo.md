@@ -52,7 +52,7 @@ The breakfast above came with nattō, fermented soybeans. I’m glad I got it…
 
 At the ryokan (traditional Japanese inn) I stayed at, traditional Japanese dinner and breakfast were served. Both were delicious. It was here that I learned the name of another newfound favorite: takana (Japanese giant red mustard greens; typically pickled).
 
-![Breakfast at the ryokan](/blog/images/2023-02-16_ryokan breakfast.JPG)
+![Breakfast at the ryokan](/blog/images/2023-02-16_ryokan_breakfast.JPG)
 
 The dinner was HUGE. I think it’s considered rude to leave food on your plate but I physically could not finish all of it, and left some grilled eel and rice.
 
