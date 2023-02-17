@@ -76,7 +76,11 @@ I discovered an interesting way of sorting garbage there:
 
 I relaxed in the public bath (a fake hot spring), and had complimentary shochu and rice. There were more people there for sure, but it’s a far less social vibe than the hostel.
 
-After 2 nights, I checked out and [took the train](https://youtu.be/XtiFpwAOUJA) to Lake Kawaguchi, where I stayed in a ryokan. Here’s my room:
+After 2 nights, I checked out and took the train to Lake Kawaguchi.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtiFpwAOUJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+At Lake Kawaguchi, I stayed in a ryokan. Here’s my room:
 
 ![My room in the ryokan](/blog/images/2023-02-16_ryokan.JPG)
 
@@ -164,9 +168,15 @@ From Shinjuku, I went up to the top of the Tokyo Metropolitan Government Buildin
 
 ![A sketch I made](/blog/images/2023-02-16_tmgb_sketch.JPG)
 
-There was a piano up there, with talented people (or untalented people with no social anxiety) free to play for everyone. I got two videos [here](https://youtu.be/qGqwUYwFwAg) and [here](https://youtu.be/t5Cn6S_9hHk) of people playing.
+There was a piano up there, with talented people (or untalented people with no social anxiety) free to play for everyone. I got two videos of people playing:
 
-[Here’s a time lapse video of the world’s busiest crosswalk](https://youtu.be/9U20_V-3nT0).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGqwUYwFwAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5Cn6S_9hHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Here’s a time lapse video of the world’s busiest crosswalk:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9U20_V-3nT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Another fun city thing has been the trains, but this train out of the city to the Fuji area was the nicest I’ve seen so far:
 
