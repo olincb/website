@@ -96,7 +96,9 @@ This is Sensō-Ji, in Asakusa:
 
 ![Senso-ji up close](/blog/images/2023-02-16_sensoji2.JPG)
 
-There I also [saw some koi](https://youtu.be/qhseGziOah0) ([speedy koi over here](https://youtu.be/yhhBeXyXncQ)).
+There I also saw some koi:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yhhBeXyXncQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This is the pagoda there:
 
@@ -146,7 +148,9 @@ I went to Akihabara at night but it’s not really a “night life” area, more
 
 ![Anime billboards line the street](/blog/images/2023-02-16_akihabara.JPG)
 
-I was invited to go with some people from the hostel and I’m glad I went with them, because otherwise I wouldn’t have known to explore the 7 floors of Don Quijote. They had everything from claw machines to groceries to costumes to arcade games to sex toys to liquor to colored eye contacts. [Here’s a video of someone from the hostel playing the drums there](https://youtu.be/cKhe1K823uI).
+I was invited to go with some people from the hostel and I’m glad I went with them, because otherwise I wouldn’t have known to explore the 7 floors of Don Quijote. They had everything from claw machines to groceries to costumes to arcade games to sex toys to liquor to colored eye contacts. Here’s a video of someone from the hostel playing the drums there:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKhe1K823uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We also saw this guy, who looks like he’s on his way to the Tokyo Drift film set:
 
