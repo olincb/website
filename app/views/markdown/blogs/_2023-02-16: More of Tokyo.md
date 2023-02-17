@@ -210,7 +210,7 @@ I also went to Piss Alley, known for its many bars and absence of bathrooms:
 
 ![Piss Alley](/blog/images/2023-02-16_piss_alley.JPG)
 
-[I took a video of me walking the length of it](https://youtu.be/SN7_4RjfidI).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SN7_4RjfidI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Strawberries are in season here apparently, so one night I got a strawberry highball:
 
@@ -258,7 +258,11 @@ I did a small hike to the Tenjosan Komitake Shrine and got some more Fuji views:
 
 ### Other Nature
 
-I went to Shinjuku Gyoen National garden which was very cool. [Here’s a video of some birds chirping there](https://youtu.be/P9edduvlBPo). I met a Tokyoite whose nickname was Sam and he asked if he could take my portrait. He said something like “I found a good spot. This tree is a very classic Japanese tree.” I followed him on instagram so we’ll see if I end up there.
+I went to Shinjuku Gyoen National garden which was very cool. Here’s a video of some birds chirping there:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9edduvlBPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I met a Tokyoite whose nickname was Sam and he asked if he could take my portrait. He said something like “I found a good spot. This tree is a very classic Japanese tree.” I followed him on instagram so we’ll see if I end up there.
 
 ![Me in front of the classic Japanese tree](/blog/images/2023-02-16_portrait.JPG)
 
