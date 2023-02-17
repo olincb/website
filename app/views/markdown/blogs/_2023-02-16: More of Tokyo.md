@@ -1,6 +1,6 @@
 #
 
-I’m going to structure this post by theme, rather than chronology. Also, I’ve scattered a few links to Youtube videos throughout. I’m not sure it was clear in my last post that there were links to videos. 
+I’m going to structure this post by theme, rather than chronology.
 
 ## Food
 
