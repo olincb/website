@@ -14,9 +14,9 @@ After dinner, Grace and I said our goodbyes and went to the night market in Hual
 
 ![Grace and I at the Hualien night market](/blog/images/2023-02-25_nightmarket.JPG)
 
-After the night market, Grace and I looked for a bar but found a craft brewery! Once again, some stronger ales were night compared to to much more common lagers in Asia.
+After the night market, Grace and I looked for a bar but found a craft brewery! Once again, some stronger ales were nice compared to to much more common lagers in Asia.
 
-At the brewery, we met and chatted with a couple from Taipei, Tony and ???. Tony is a CEO of a company that works with natural gas transport in Taiwan. They were incredibly nice and ended paying for our drinks. The bar tender/brewery owner, if I understood correctly, was formerly a doctor who helped ???’s mother fight cancer and win. All in all, another very interesting group of people to have met coincidentally.
+At the brewery, we met and chatted with a couple from Taipei. Tony is a CEO of a company that works with natural gas transport in Taiwan. They were incredibly nice and ended paying for our drinks. The bar tender/brewery owner, if I understood correctly, was formerly a doctor who helped one of their family members fight cancer and win. All in all, another very interesting group of people to have met coincidentally.
 
 The next morning (the 25th), we chartered a guide (a knowledgeable taxi driver who spoke almost no english) to take us around Taroko National Park. With only 1 day for the park, I think this was really the way to go, even though we weren’t able to do any of the much longer hikes. Next time though, I would get the trail permit early and choose a longer trail to do. In particular the Zhiulu Old Road looks incredible.
 
