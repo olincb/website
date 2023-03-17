@@ -2,7 +2,7 @@
 
 After arriving and settling into our hotel in Hualien, Grace and I decided to explore for a bit. We knew George and Ann would be in Hualien at the same time as us, and we had planned on texting them. Before we had a chance to text them though… we completely coincidentally ran into them on the street! We made plans to get dinner.
 
-We spent the afternoon checking out the beach, which was lined with these massive concrete things that looked like jax. The beach was pretty but the waves were not very inviting…
+We spent the afternoon checking out the beach, which was lined with these massive concrete things that looked like jacks. The beach was pretty but the waves were not very inviting…
 
 ![Waves crash on a beach lined with massive concrete angular structures](/blog/images/2023-02-25_beach.JPG)
 
