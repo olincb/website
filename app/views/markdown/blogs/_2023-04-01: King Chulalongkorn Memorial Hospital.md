@@ -21,3 +21,5 @@ It didn’t hurt at first, but after the shock started wearing off, I think that
 ![Me without an arm](/blog/images/2023-04-01_armless.JPG)
 
 Luckily my flight to Singapore (and then to Japan) isn’t until the 4th so I think I should be good to go by then. I wonder if I can get a discount for having one fewer limb than the typical passenger…
+
+... April fools! Everything is going swimmingly :)
