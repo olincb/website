@@ -44,7 +44,7 @@ I also saw my first chingchok lizard that night. They’re also known as house g
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szHJdAgqPuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The next morning, I embarked on a full day tour of the sights around Luang Prabang, outside of the town itself. It was a busy day with an ambitious itinerary; very fun but I think ideally I works have seen all these things over two days instead of one.
+The next morning, I embarked on a full day tour of the sights around Luang Prabang, outside of the town itself. It was a busy day with an ambitious itinerary; very fun but I think ideally I would have seen all these things over two days instead of one.
 
 Our first stop was a Hmong village. To be honest, I despised this part of the tour. It felt like we were shipped in to gawk and take photos of human beings living in poverty. A bit like a zoo for humans. I intentionally took no photos of anyone inside, other than a man who played an instrument for our group, who explicitly said we could take videos.
 
@@ -52,7 +52,7 @@ It felt vastly different to my experience with Hmong culture from Sa Pa in Vietn
 
 ![A “Community Based Tourism Development Project”](/blog/images/2023-03-13_humanzoo.JPG)
 
-Moving on from that lowlight, we visited a bear sanctuary where they house bears saved from poaching who will never be able to return to the wild. There was a lot of educational material on bear conservation in SE Asia. They had at least four Asian Black Bears that I saw, and possibly more in parts of their enclosure that was further off the path.
+Moving on from that lowlight, we visited a bear sanctuary where they house bears saved from poaching who will never be able to return to the wild. There was a lot of educational material on bear conservation in SE Asia. They had at least four Asian Black Bears that I saw, and possibly more in parts of their enclosure that was further off the path. It is unfortunate that the bears got into this position, but all things considered they seemed to have it pretty nice.
 
 ![Bears in a rehab center](/blog/images/2023-03-13_bears.JPG)
 
@@ -84,9 +84,9 @@ We arrived in Pak Ou (literally, mouth of the Ou, where the Nam Ou River flows i
 
 ![A massive cliff right next to the river](/blog/images/2023-03-13_cliff.JPG)
 
-Opposite the confluence, there are two caves full of buddha images (statues) that local people have been leaving for years. One cave contains over 1000 buddhas, and the other contains over 3000.
+Opposite the confluence, there are two caves full of Buddha images (statues) that local people have been leaving for years. One cave contains over 1000 Buddhas, and the other contains over 3000.
 
-![Shrines and buddha images inside Pak Ou cave](/blog/images/2023-03-13_cave.JPG)
+![Shrines and Buddha images inside Pak Ou cave](/blog/images/2023-03-13_cave.JPG)
 
 There was a cool view from the mouth of the lower cave.
 
@@ -118,11 +118,11 @@ I was staying at the Mad Monkey, which is a chain of party hostels. It was the f
 
 Most of the people there made a habit of going bowling in the nights. The local bowling alley is just outside the city limits, so it stays open until 1 or 2 am, while everything inside the city is forced to close at 11pm. It sounds like it was quite a party… I don’t regret not going. To be honest I don’t really get the party backpacker mentality… I want to travel to experience a country, not to get wasted with a bunch of other tourists and sleep till noon the next day.
 
-Moving on… One fun thing about SE Asia is the freedom to eat whatever kind of meal at whatever time of day. Omelets for dinner are common, and noodles or rice for breakfast are also common. Here is some pad se liu I had for breakfast. I think it’s like a Lao version of pad se ew; or it’s actually just pad se ew that was spelled weirdly on the menu. It’s hard to say because there’s so much overlap between Thai and Lao food, almost every cook makes every dish a bit differently, and the spellings of dishes in English on menus is incredibly non-standardized.
+Moving on… One fun thing about SE Asia is the freedom to eat whatever kind of meal at whatever time of day. Omelets for dinner are common, and noodles or rice for breakfast are also common. Here is some pad se liu I had for breakfast. I think it’s like a Lao version of pad se ew; or it’s actually just pad se ew that was spelled weirdly on the menu. It’s hard to say because there’s so much overlap between Thai and Lao food, almost every cook makes every dish a bit differently, and the spellings of dishes in English on menus are incredibly non-standardized.
 
 ![Pad se liu](/blog/images/2023-03-13_padseliu.JPG)
 
-Here’s some cashew chicken I had for lunch. This is another dish shared with Thai food.
+Here’s some cashew chicken I had for lunch. This is another dish shared with Thai cuisine.
 
 ![Cashew chicken](/blog/images/2023-03-13_cashewchicken.JPG)
 
