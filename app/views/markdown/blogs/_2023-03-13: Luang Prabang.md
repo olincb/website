@@ -78,7 +78,7 @@ From there we boarded a long boat (I’ll describe these boats in more detail in
 
 We stopped at “Whisky Village,” where Lao whisky (called Lao Lao) is their specialty. We sampled three kinds, two sweet ones and one very very strong one. It tastes a bit like very strong sake, which makes sense as it’s made from rice as well. 
 
-![Whisky at the whisky village](/blog/images/2023-03-13_whisky.JPG)
+![Whisky at the whisky village](/blog/images/2023-03-13_whiskey.JPG)
 
 We arrived in Pak Ou (literally, mouth of the Ou, where the Nam Ou River flows into the Mekong River) and were greeted by cliffs of dizzying scale. They reminded me of the cliffs in Zion National Park, Utah.
 
