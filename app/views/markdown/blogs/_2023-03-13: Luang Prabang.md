@@ -8,7 +8,9 @@ I hired a tuk tuk back to the airport to try to find the taxi service but the ai
 
 Looking back, I was probably more freaked out than I needed to be… after all, people used to travel without phones all the time, and I still had my passport and wallet.
 
-This was where I experienced the genuine kindness of Lao people for the first time. The tuk tuk driver placed some calls, and we drove to his friend‘s house, who works for the taxi company. I won’t lie, I was a bit concerned I was about to get kidnapped, but I had nothing to worry about. He placed another call on my behalf and reached my original taxi driver, who had my phone! He said he would drop it at my hostel the next day.
+This was where I experienced the genuine kindness of Lao people for the first time. The tuk tuk driver placed some calls, and we drove to his friend‘s house, who works for the taxi company. I won’t lie, I was a bit concerned I was about to get kidnapped, but I had nothing to worry about. Here seems like a good place to mention that throughout my trip, I've felt safer everywhere I've been, at any time of day, than I would in some parts of the US I've been to.
+
+He placed another call on my behalf and reached my original taxi driver, who had my phone! He said he would drop it at my hostel the next day.
 
 The next morning, the taxi driver came to the hostel with my phone. But he didn’t know my name so they didn’t know who to retrieve. I was just obliviously hanging out in my dorm room as he waited for *three hours* at the lobby. Again, I cannot believe the kindness of Lao people. Eventually, he gave it back to the tuk tuk driver from the night before since he knew what I looked like. I ended up getting it back from him later that day.
 
