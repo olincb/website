@@ -79,7 +79,7 @@ I woke up to the sound of multiple people freaking out, frequent thunder claps, 
 
 I had chosen the bed that was protected from the wind and rain by the trunk of the tree, but by the time I woke up, Ditte and Lasse’s bed was already drenched from the rain. We frantically read a safety pamphlet about whether to evacuate “don’t panic…” “your tree was chosen specifically for its strength…” “it’s been here for hundreds of years…” “your guide will come get you if evacuation is necessary…” “sometimes you may have to decide to evacuate on your own…”
 
-Lasse (who later I found out had been stressed for about the storm for hours as it had approached) made the decision that it was time to start evacuation. My groggy brain thought this was a bit of an over reaction, but I was snapped right out of it when I got downstairs to see our guides Khamla and Saen-Aiy there already, helping people into their harnesses to evacuate.
+Lasse (who later I found out had been stressed about the storm for hours as it had approached) made the decision that it was time to start evacuation. My groggy brain thought this was a bit of an over reaction, but I was snapped right out of it when I got downstairs to see our guides Khamla and Saen-Aiy there already, helping people into their harnesses to evacuate.
 
 On the ground, we all huddled into the hut that our guides were staying in, and they brought their extinguished fire inside and miraculously restarted it. 
 
