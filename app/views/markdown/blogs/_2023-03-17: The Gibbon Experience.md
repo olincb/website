@@ -52,11 +52,15 @@ Eventually we made it to our treehouse, which was also accessed by zipline.
 
 ![The zipline into the treehouse](/blog/images/2023-03-17_treehouseentrance.jpg)
 
-The treehouse we stayed in was named Khisi (not totally sure why it had a name, because they called it treehouse 4 most of the time). It was 45m above the ground, had 2 levels, including a bathroom with a shower, and a kitchen. Here’s the view.
+The treehouse we stayed in was named Khisi (not totally sure why it had a name, because they called it treehouse 4 most of the time). It was 45m above the ground, had 2 levels, including a bathroom with a toilet and shower, a kitchen, some hammock chairs, a table with stools, and three large mattresses with big nets, some snacks, some cards, and some Lao Lao (Lao whiskey). 
+
+The level of service we received in the treehouse was better than any I've experienced in a long long time, maybe ever. Every time we left, there was a pair of people who came to clean, make or unmake the beds as appropriate, and cook meals for us. Khamla called them Lady Gaga ("Lady Gaga will come to make your beds")... not really sure why, he's just kind of quirky like that.
+
+Here’s the view.
 
 ![The view from the treehouse](/blog/images/2023-03-17_treehouseview.jpg)
 
-The first thing we did when we got there was an emergency evacuation drill which of course makes you feel safer even if you’ll never have to do it.
+The first thing we did when we got there was an emergency evacuation drill which of course makes you feel safer even if you’ll never have to do it (... or so we thought, at the time).
 
 After the drill, we had some snacks; notably some very yummy crackers with jelly inside, and these pears with a very strange texture. It tasted like a pear but felt like a mix between a pear and a watermelon.
 
@@ -66,7 +70,7 @@ The rest of the evening we just settled ourselves in and relaxed.
 
 ![Me on the lower level of the tree house](/blog/images/2023-03-17_meintree.jpg)
 
-Dinner was in the classic “rice and a bunch of stuff that everyone shares” style. I really liked the mushrooms.
+Dinner was in the classic “rice and a bunch of stuff that everyone shares” style. I really liked the mushrooms but of course it was all delicious.
 
 ![Dinner in the treehouse](/blog/images/2023-03-17_dinner.jpg)
 
@@ -81,6 +85,8 @@ I had chosen the bed that was protected from the wind and rain by the trunk of t
 
 Lasse (who later I found out had been stressed about the storm for hours as it had approached) made the decision that it was time to start evacuation. My groggy brain thought this was a bit of an over reaction, but I was snapped right out of it when I got downstairs to see our guides Khamla and Saen-Aiy there already, helping people into their harnesses to evacuate.
 
+Despite the chaos our guides were cool as cucumbers (but still very prompt with getting us out of there). Probably the best kind of people you could ask for in that situation.
+
 On the ground, we all huddled into the hut that our guides were staying in, and they brought their extinguished fire inside and miraculously restarted it. 
 
 Shortly after getting down there, Lasse remembered that his and Ditte’s passports were in a bag up there, at risk of being swept away by the wind (I think the rest of us brought our bags with us or left everything valuable at the office before we left). So he and Khamla went on a quick rescue mission for the bag. I was sure I had seen this in a movie, and that they were going to die up there. But they made it back down safely.
@@ -90,6 +96,8 @@ We learned from Khamla as we waited out the storm that the danger in a storm lik
 I think Khamla deserves some sort of award or certificate for meteorology, because he was seriously able to predict things. He periodically checked the weather outside and predicted perfectly when it would stop.
 
 After about an hour and a half, Khamla deemed it safe to return to the treehouse, so we did. We brushed the debris off our beds and made it through the rest of the night without incident.
+
+Before this night I think everyone liked everyone else well enough, but after our experience with the storm we were like a little (big?) jungle family. That kind of thing really helps people bond.
 
 ## Day 2
 
@@ -135,6 +143,8 @@ With a bit of the smoke cleared out by the rain from the previous night, we caug
 
 ![Very cool sunset](/blog/images/2023-03-17_sunset2.jpg)
 
+Khamla the weather man assured us with 150% certainty that there would be no rain that night, which was a welcome relief.
+
 ## Day 3
 
 On our final morning, we set out while it was still dark to try to see (and hear) some gibbons. We made it to a particular platform where our guides said it was common to see gibbons, just as it got light. We waited there quietly.
@@ -151,7 +161,7 @@ We returned to our treehouse for breakfast, and then spent the rest of the morni
 
 ![Me on a zipline](/blog/images/2023-03-17_zipliner.jpg)
 
-This is Georgie and me. We didn’t know it yet but we became very good friends and ended up traveling together for a pretty long time.
+This is Georgie and me. We didn’t know it yet but we became very good friends and ended up traveling together for a pretty long time. She'll be back in future blog posts.
 
 ![Georgie and I take a selfie with Bekah’s camera](/blog/images/2023-03-17_georgieselfie.jpg)
 
@@ -166,6 +176,8 @@ Left to right (standing): Margaret, Ian, Bekah, Kassie, Ditte, Lasse, me, Georgi
 ![The whole crew!](/blog/images/2023-03-17_everyone.jpg)
 
 Over the three days, we averaged 5.8 miles of hiking per day, and 1,290 ft of elevation gain per day.
+
+We had some heartfelt goodbyes when we got back; our three day journey together felt like it flew by but also like it was a week long or more. But Team Gibbon had to go their separate ways.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnxRVqim4IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
