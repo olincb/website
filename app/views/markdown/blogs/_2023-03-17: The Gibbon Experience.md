@@ -52,7 +52,7 @@ Eventually we made it to our treehouse, which was also accessed by zipline.
 
 ![The zipline into the treehouse](/blog/images/2023-03-17_treehouseentrance.jpg)
 
-The treehouse we stayed in was named Khisi (not totally sure why it had a name, because they called it treehouse 4 most of the time). It was 45m above the ground, had 2 levels, including a bathroom with a toilet and shower, a kitchen, some hammock chairs, a table with stools, and three large mattresses with big nets, some snacks, some cards, and some Lao Lao (Lao whiskey). 
+The treehouse we stayed in was named Khisi (not totally sure why it had a name, because they called it treehouse 4 most of the time). It was 45m above the ground, had 2 levels, including a bathroom with a toilet and shower, a kitchen, some hammock chairs, a table with stools, and three large mattresses with bug nets, some snacks, some cards, and some Lao Lao (Lao whiskey). 
 
 The level of service we received in the treehouse was better than any I've experienced in a long long time, maybe ever. Every time we left, there was a pair of people who came to clean, make or unmake the beds as appropriate, and cook meals for us. Khamla called them Lady Gaga ("Lady Gaga will come to make your beds")... not really sure why, he's just kind of quirky like that.
 
