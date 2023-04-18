@@ -62,7 +62,11 @@ That night happened to be the weekend night market so of course we went there fo
 
 ![Black sesame pancake](/blog/images/2023-03-20_sesamecake.jpg)
 
-The next day we scooted to the White Temple. If I’m being honest, the artist’s disciple who made the Blue Temple still had a bit to learn… because the White Temple was _much_ cooler in my opinion. It was decorated incredibly ornately, and had many small mirrors on it which sparkled in the sunlight.
+The next day we scooted to the White Temple. But not before getting pulled over by the Thai police… They were stopping all scooters (not just the tourists!) and checking for helmets and licenses. I handed the officer my MD license and he said “No, international license.” We should have had Georgie drive because it turns out British licenses work just fine when you hand them over, which we knew because she had already been stopped like this.
+
+After a bit of an excuse about where I left my international drivers license, I was told to go into the police station. They put my name in the system and told me I owed 500 baht (about $15). I didn’t feel like I was in much of a place to bargain, even though I had heard from a guy the previous day about how his ticket was only 300 baht. So I paid the fine (bribe?) and they printed me out a copy of the ticket. They said if I got pulled over again, show them the paper and I’ll be free to go… a sort of “we already got him to pay” kind of thing. So, with everything cleared up we got back on the scooter, still unlicensed to drive, and we were free to go. The rest of the way to the White Temple was smooth sailing!
+
+If I’m being honest, the artist’s disciple who made the Blue Temple still had a bit to learn… because the White Temple was _much_ cooler in my opinion. It was decorated incredibly ornately, and had many small mirrors on it which sparkled in the sunlight.
 
 ![Me, about to enter the White Temple](/blog/images/2023-03-20_wtentrance.jpg)
 
