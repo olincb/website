@@ -36,7 +36,7 @@ Seeing as I was now an expert scooter driver, I rented one from my hostel. Georg
 
 ![Georgie and I chilling in a waterfall](/blog/images/2023-03-24_waterfallchillin.jpg)
 
-After chilling at what we thought was the main waterfall for a bit, we decided to hike up a trail there for a bit, to see if we could find another part that would be good for swimming. On the way we found a cool view of Chiang Mai.
+After chilling at what we thought was the main waterfall for a bit, we decided to hike up a trail there, to see if we could find another part that would be good for swimming. On the way we found a cool view of Chiang Mai.
 
 ![Georgie and I on the way up to the upper part of the waterfall](/blog/images/2023-03-24_waterfallviewselfie.jpg)
 
@@ -102,7 +102,7 @@ The next day I had a cooking class! We started with a visit to the morning marke
 
 ![Instructor Riko wearing a curry shirt](/blog/images/2023-03-24_curryshirt.jpg)
 
-Appropriately, she also showed us the way to this Curry (paste).
+Appropriately, she also showed us the way to this curry (paste).
 
 ![Curry paste at the market](/blog/images/2023-03-24_currypaste.jpg)
 
@@ -138,7 +138,7 @@ Finally, for dessert, I made mango sticky rice. SO yummy.
 
 I don’t want to brag too much, but I was told I cook like a Thai by one of the instructors, due to my tolerance for spiciness (which we got to adjust in each dish to our taste) and general kitchen skills.
 
-Here is Riko (an instructor) and I after the class.
+Here is Riko and I after the class.
 
 ![Riko and I](/blog/images/2023-03-24_riko.jpg)
 
