@@ -9,6 +9,8 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "../js/bootstrap_js_files.js"
 import "../js/darkmode.js"
+import "../js/lazyloader.js"
+
 
 Rails.start()
 Turbolinks.start()
