@@ -49,6 +49,10 @@ The SSL cert was obtained from Let's Encrypt and put into the nginx config by fo
 
 The SSL cert gets renewed 30 days before expiration by checking every day if it's going to expire (using `crontab`). Edit with `crontab -e`.
 
+## Webpacking
+
+in order to webpack js now, need to first run `export NODE_OPTIONS=--openssl-legacy-provider`. This should be done in development and the results should be checked into source control because the server doesn't have the power to do the webpacking without killing itself.
+
 ## TODO
 
 - change dark mode icons to switch to the other on mouse hover

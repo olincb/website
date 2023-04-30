@@ -203,15 +203,12 @@ window.setToplevelDarkmodeState = function () {
 /***/ (function(module, exports) {
 
 // Use this to lazy load blog posts
-console.log("document might not be ready yet");
 $(document).ready(function () {
-  console.log("document is ready");
   $(".blog-post-title").click(function (event) {
     if ($(this).hasClass('loaded')) {
       return;
     }
 
-    console.log("blog post title has been clicked");
     var post_name = $(this).attr('aria-controls');
     var post_date = post_name.split('_')[1];
     $.get("/blog/posts/" + post_date).done(function (data) {
@@ -9286,4 +9283,4 @@ module.exports = __webpack_require__(/*! /home/baillie/projects/website/app/fron
 /***/ })
 
 /******/ });
-//# sourceMappingURL=application-f7ee69d9c091dc0a1e70.js.map
+//# sourceMappingURL=application-70211285ac4988f7c365.js.map
