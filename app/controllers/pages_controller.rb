@@ -29,6 +29,21 @@ class PagesController < ApplicationController
         puts @blog_posts
     end
 
+    def blog_post
+        all_posts = markdown_list "blogs"
+        post_date = params[:post_date]
+        matching_posts = all_posts.select { |title|
+            title.include? post_date
+        }
+        if matching_posts.empty?
+            # return 404
+            raise ActionController::RoutingError.new('Not Found')
+        end
+        @post_title = matching_posts[0] # there should only be 1
+        puts @post_title
+        render partial: "markdown/blogs/#{@post_title}", layout: false
+    end
+
     def markdown_list (name)
         files = Dir["#{Rails.root}/app/views/markdown/#{name}/*.md"]
         files.map! { |filepath| filepath.split('_')[-1].chop.chop.chop } # chop chop chop!!! (get rid of ".md")
