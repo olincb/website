@@ -54,7 +54,7 @@ We learned from Sean that the ruins are not actually as old as they look, and th
 
 ![Three pointy guy ruins](/blog/images/2023-03-31_ruins8.jpg)
 
-Sadly, one attraction in Ayutthaya is elephant riding. It's incredibly inhumane and is one of the last places you can do it in Thailand.Despite this, it seemed to be relatively popular.
+Sadly, one attraction in Ayutthaya is elephant riding. It's incredibly inhumane and is one of the last places you can do it in Thailand. Despite this, it seemed to be relatively popular.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ogk-3ux785U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

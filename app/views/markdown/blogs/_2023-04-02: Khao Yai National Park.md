@@ -6,9 +6,9 @@ The train from Ayutthaya to Pak Chong (closest station to Khao Yai National Park
 
 Contrary to what I originally said on April fools day, I kept all limbs inside the train and made it to Pak Chong in one piece.
 
-The hostel I was going to stay at didn't accept late checkin, so I had to rebook at a place closer in to town (which was actually pretty convenient since it was much closer to the train station). However, I had booked a wildlife tour through the original hostel so it was less convenient the next morning when I had to wake up earlier for them to pick me up.
+The hostel I was going to stay at didn't accept late check in, so I had to rebook at a place closer in to town (which was actually pretty convenient since it was much closer to the train station). However, I had booked a wildlife tour through the original hostel so it was less convenient the next morning when I had to wake up earlier for them to pick me up.
 
-We had three other people for the tour, in addition to a guide, whose name was Teh. The four of us sat in the back of a pickuptruck (like a lao-style tuk tuk, or the truck I was driven to and from the Gibbon Experience in), and Teh drove us around and told us when to get out to see some animals.
+We had three other people for the tour, in addition to a guide, whose name was Teh. The four of us sat in the back of a pickup truck (like a lao-style tuk tuk, or the truck I was driven to and from the Gibbon Experience in), and Teh drove us around and told us when to get out to see some animals.
 
 We were wildly impressed with his spotting skills though... The first stop we made, we saw this hornbill (I don't remember what subspecies, but there were two of them).
 
