@@ -70,6 +70,10 @@ Among other things, I had sweet sticky rice in a unique vessel.
 
 ![Sweet sticky rice served in half a piece of bamboo](/blog/images/2023-03-31_bamboorice.jpg)
 
+Here is the three of us with (part of) our dinners.
+
+![Alessandro, Dominic, and me](/blog/images/2023-03-31_travelpals.jpg)
+
 It was here we met the most fascinating Thai man. He seemed to be the least Thai Thai person. He asked me if a curry I had ordered was spicy, because he _hates_ spicy food. We sat down to eat with him, and ended up talking to him for hours. He told us about how people in Thailand percieve the government and the King, as well as why they loved the previous king (Rama IX) so much. It was so much fun talking with him.
 
 The next day, we had an easy morning waiting for our trains. We had coffee and pastries at a western boutique coffee shop, and we stayed there for a long time because the air conditioning was too nice to leave. After hanging out there basically until lunch time, we went to the restaurant right across the street before going to the train station.
