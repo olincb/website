@@ -46,7 +46,7 @@ After dinner, I went back to the train station, grabbed my big bag, and continue
 
 Koyaguchi was already pretty far off the tourism path, but Otani was on another level. This was the train station I disembarked at:
 
-![Otani train station](/blog/images/2023-04-16_trainstn.jpg)
+![Otani train station](/blog/images/2023-04-16_trainstation.jpg)
 
 I then had a 20 minute walk along unlit streets without sidewalks (which, in a city would have been normal on side streets, but this was definitely suburban) until I arrived at my hotel.
 
