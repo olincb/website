@@ -7,10 +7,11 @@
         Click on a blog post's title to open it, and click it again to collapse it.</p>
         <% @blog_posts.each do |blog_post| %>
             <% # adding CBO_ in front of the ids because my posts will start with the (numeric) date and html4 needs ids to start with letters %>
-            <% post_nospace = "CBO_" + blog_post.gsub(" ", "_").delete(",.:#!?") %>
+            <% post_nospace = "CBO_" + blog_post.gsub(" ", "_").delete(",.:#!?()") %>
             <h2 class="fw-light"><a class="heading-text blog-post-title" data-bs-toggle="collapse" href="#<%= post_nospace %>" role="button" aria-expanded="false" aria-controls="<%= post_nospace %>"><%= blog_post %></a></h2>
             <div class="collapse" id="<%= post_nospace %>">
               <p>Loading...</p>
+              <p><small>If this takes too long, try <a href=".">refreshing</a> the page.</small></p>
             </div>
         <% end %>
         </div>
