@@ -14,6 +14,7 @@ Rails.application.routes.draw do
   get '/resume', to: 'pages#resume'
   get '/projects', to: 'pages#projects'
   get '/blog', to: 'pages#blog'
+  get '/music', to: 'pages#music'
   #get '/art', to: 'art#index'
 
   resources :projects
